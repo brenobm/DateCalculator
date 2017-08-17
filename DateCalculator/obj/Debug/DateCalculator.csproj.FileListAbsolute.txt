@@ -1,0 +1,7 @@
+E:\Arquivos Breno\Pessoal\Projetos\dotNet\DateCalculator\DateCalculator\bin\Debug\DateCalculator.exe.config
+E:\Arquivos Breno\Pessoal\Projetos\dotNet\DateCalculator\DateCalculator\bin\Debug\DateCalculator.exe
+E:\Arquivos Breno\Pessoal\Projetos\dotNet\DateCalculator\DateCalculator\bin\Debug\DateCalculator.pdb
+E:\Arquivos Breno\Pessoal\Projetos\dotNet\DateCalculator\DateCalculator\obj\Debug\DateCalculator.exe
+E:\Arquivos Breno\Pessoal\Projetos\dotNet\DateCalculator\DateCalculator\obj\Debug\DateCalculator.pdb
+E:\Arquivos Breno\Pessoal\Projetos\dotNet\DateCalculator\DateCalculator\bin\Debug\DateCalculator.exe.CodeAnalysisLog.xml
+E:\Arquivos Breno\Pessoal\Projetos\dotNet\DateCalculator\DateCalculator\bin\Debug\DateCalculator.exe.lastcodeanalysissucceeded
